@@ -31,7 +31,7 @@
   
   ## Usage
   
-  You can use this app through git bash, using the command line. CD into the develop folder, run "node index.js" commandm and answer the questions prompted.
+  You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" command and answer the questions prompted.
   For more watch [this video](https://drive.google.com/file/d/1XOPLJNxQrtT026NDTAMXjEKwwUViK4ei/view)
   
   </br>
@@ -48,7 +48,7 @@
   All users, feel free to contribute to this project.
   
   </br>
-  
+    
   ## Test
   
   To test this app, follow the walk-through video above, or inspect the README file inside develop folder in this repo.
