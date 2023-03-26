@@ -1,10 +1,16 @@
 
   # Professional README Generator
-
-  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
-
+  </br>
+  
+  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg) 
+  
+  </br>
+  
   ## Description
-  This app will generate a professional README.md file, based on the user's input
+  
+  Through this app, you will be able to generate a professional README file based on your input and parameters.
+  
+  </br>
 
   ## Table of Content
 
@@ -16,30 +22,54 @@
   - [License](#license)
   - [Contributing](#contributing)
   - [Test](#test)
-  - [Questions](#questions)
-  - [GitHub repository](#github-repository)
-  - [Email me](#email-me)
+  - [Questions and Issues](#questions-and-issues)
+    - [GitHub repository](#github-repository)
+    - [Email me](#email-me)
+
+  </br>
 
   ## Installation
-  Download the file folder, or clone this repository to your preferred directory
-
+  
+  To install this app download the file folder, or clone this repo to your preferred local directory.
+  
+  </br>
+  
   ## Usage
-  Through the command line, cd into the Develop folder. Run the "node index.js" command, and answer all the questions prompted
+  
+  You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" command and answer the questions prompted.
+  For more watch [this video](https://drive.google.com/file/d/1XOPLJNxQrtT026NDTAMXjEKwwUViK4ei/view)
+  
+  </br>
+  
 
   ## License
+  
   This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
-
+  
+  </br>
+  
   ## Contributing
-  All users, feel free to contribute to this project
-
+  
+  All users, feel free to contribute to this project.
+  
+  </br>
+    
   ## Test
-  To test this app, follow the walk-through video above, or inspect the file inside the Develop folder in this repo
-
-  ## Questions
-  For any questions or issues, feel free to contact me through the contact info provided below
-
-  ## GitHub repository
-  [GitHub](https://github.com/)
-
-  ## Email me
-  [E-mail](mailto:google@gmail.com)
+  
+  To test this app, follow the walk-through video above, or inspect the README file inside develop folder in this repo.
+  
+  </br>
+  
+  ## Questions and Issues
+  
+  For any questions or issues, feel free to contact me through the contact info provided below 👇
+  
+  ### GitHub repository
+  
+  [odobashigenci](https://github.com/odobashigenci)
+  
+  ### Email me
+  
+  [odobashigenci@gmail.com](mailto:odobashigenci@gmail.com)
+  
+  </br>
