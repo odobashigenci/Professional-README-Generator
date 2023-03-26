@@ -1,10 +1,14 @@
 
   # asdf
 
-  ![License](https://img.shields.io/badge/License-GNU%20License-blue.svg)
+
+  ![License](https://img.shields.io/badge/License-Apache%20License-blue.svg)
 
   ## Description
-  sadf
+  asdf
+
+  ![License](https://img.shields.io/badge/License-GNU%20License-blue.svg)
+
 
   ## Table of Content
 
@@ -22,7 +26,9 @@
   asdf
 
   ## License
-  This application is covered under [GNU License](https://choosealicense.com/licenses/gpl-3.0/)
+
+  This application is covered under [Apache License](https://choosealicense.com/licenses/apache-2.0/)
+
 
   ## Contributing
   asdf
