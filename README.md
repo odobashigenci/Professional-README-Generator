@@ -8,17 +8,12 @@
 
   ## Table of Content
 
-- [Professional README Generator](#professional-readme-generator)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Test](#test)
-  - [Questions](#questions)
-  - [GitHub repository](#github-repository)
-  - [Email me](#email-me)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Testing](#testing)
+  * [Questions and issues](#questions)
 
   ## Installation
   Download the file folder, or clone this repository to your preferred directory
