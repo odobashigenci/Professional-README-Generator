@@ -1,10 +1,16 @@
 
-  # Professional README Generator
+  # Provide a name of your choice for this app
 
-  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
+  </br>
+
+  ![License](https://img.shields.io/badge/License-Apache%20License-blue.svg)
+
+  </br>
 
   ## Description
-  This app will generate a professional README.md file, based on the user's input
+  Provide a short description of your app
+
+  </br>
 
   ## Table of Content
 
@@ -15,26 +21,38 @@
   * [Testing](#testing)
   * [Questions and issues](#questions)
 
+  </br>
+
   ## Installation
-  Download the file folder, or clone this repository to your preferred directory
+  Provide instructions fot the user on how to install this app
+
+  </br>
 
   ## Usage
-  Through the command line, cd into the Develop folder. Run the "node index.js" command, and answer all the questions prompted
+  Profide detailed instruction for the user on how to use this app
+
+  </br>
 
   ## License
-  This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
+  This application is covered under [Apache License](https://choosealicense.com/licenses/apache-2.0/)
+
+  </br>
 
   ## Contributing
-  All users, feel free to contribute to this project
+  Instuct the usesr on how can they further contribute for this project
+
+  </br>
 
   ## Test
-  To test this app, follow the walk-through video above, or inspect the file inside the Develop folder in this repo
+  Provide instructions on how to test the app
+
+  </br>
 
   ## Questions
-  For any questions or issues, feel free to contact me through the contact info provided below
+  Provide your GitHub username, and your e-mail address for the users in case they may have any question, or neet to report any issue
 
-  ## GitHub repository
-  [GitHub](https://github.com/)
+  ### GitHub repository
+  [GitHub](https://github.com)
 
-  ## Email me
-  [E-mail](mailto:google@gmail.com)
+  ### Email me
+  [E-mail](mailto:email@email.com)
