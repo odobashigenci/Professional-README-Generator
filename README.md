@@ -5,7 +5,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
   
-
+  </br>
 
   ## Description
   Through this app, you will be able to generate a professional README file based on your input and parameters.
