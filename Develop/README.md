@@ -1,14 +1,10 @@
 
-  # asdf
+  # Professional README Generator
 
-
-  ![License](https://img.shields.io/badge/License-Apache%20License-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
 
   ## Description
-  asdf
-
-  ![License](https://img.shields.io/badge/License-GNU%20License-blue.svg)
-
+  This app will generate a professional README.md file, based on the user's input
 
   ## Table of Content
 
@@ -17,30 +13,28 @@
   * [License](#license)
   * [Contributing](#contributing)
   * [Testing](#testing)
-  * [Questions](#questions)
+  * [Questions and issues](#questions)
 
   ## Installation
-  asdf
+  Download the file folder, or clone this repository to your preferred directory
 
   ## Usage
-  asdf
+  Through the command line, cd into the Develop folder. Run the "node index.js" command, and answer all the questions prompted
 
   ## License
-
-  This application is covered under [Apache License](https://choosealicense.com/licenses/apache-2.0/)
-
+  This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
 
   ## Contributing
-  asdf
+  All users, feel free to contribute to this project
 
   ## Test
-  asdf
+  To test this app, follow the walk-through video above, or inspect the file inside the Develop folder in this repo
 
   ## Questions
-  asdf
+  For any questions or issues, feel free to contact me through the contact info provided below
 
   ## GitHub repository
-  [GitHub](asdf)
+  [GitHub](https://github.com/)
 
   ## Email me
-  [E-mail](mailto:asdf)
+  [E-mail](mailto:google@gmail.com)
