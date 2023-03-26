@@ -9,33 +9,33 @@ const generateMarkdown = require('./utils/generateMarkdown')
 const questions = [{
     type: 'input',
     name: 'title',
-    message: 'What will the repository title be?'
+    message: 'What will your project title be?'
 },
 {
     type: 'input',
     name: 'description',
-    message: 'What will the project description be?'
+    message: 'What will your project description be?'
 
 },
 {
     type: 'input',
     name: 'table of contents',
-    message: 'What will the content of the project be?'
+    message: 'What will the content of your project be?'
 },
 {
     type: 'input',
     name: 'installation',
-    message: 'What are the steps for the installation?'
+    message: 'What are the steps for the installation of this app?'
 },
 {
     type: 'input',
     name: 'usage',
-    message: 'What are the usage isnstructions?'
+    message: 'What are the usage instructions for this app?'
 },
 {
     type: 'list',
     name: 'license',
-    message: 'Which license will you choose?',
+    message: 'Which license will you choose for this app?',
     choices: ['MIT License', 'The Unlicense', 'GNU License', 'Apache License'] 
 },
 {
@@ -46,88 +46,22 @@ const questions = [{
 {
     type: 'input',
     name: 'testing',
-    message: 'Provide a test of this project?'
+    message: 'How to test this project.'
 },
 {
     type: 'input',
     name: 'questions',
-    message: 'Do you have any questions?'  
+    message: 'Questions and issues.'  
 },
 {
     type: 'input',
     name: 'repository',
-    message: 'Please provide your github repository name.'  
+    message: 'Your GitHub username:'  
 },
 {
     type: 'input',
     name: 'email',
-    message: 'Please provide your e-mail.'  
-}
-];
-=======
-const inquirer = require('inquirer');
-const fs = require ('fs');
-const generateMarkdown = require('./utils/generateMarkdown')
-// TODO: Include packages needed for this application
-// inquirer installed
-
-// TODO: Create an array of questions for user input
-const questions = [{
-    type: 'input',
-    name: 'title',
-    message: 'What will the repository title be?'
-},
-{
-    type: 'input',
-    name: 'description',
-    message: 'What will the project description be?'
-
-},
-{
-    type: 'input',
-    name: 'table of contents',
-    message: 'What will the content of the project be?'
-},
-{
-    type: 'input',
-    name: 'installation',
-    message: 'What are the steps for the installation?'
-},
-{
-    type: 'input',
-    name: 'usage',
-    message: 'What are the usage isnstructions?'
-},
-{
-    type: 'list',
-    name: 'license',
-    message: 'Which license will you choose?',
-    choices: ['MIT License', 'The Unlicense', 'GNU License', 'Apache License'] 
-},
-{
-    type: 'input',
-    name: 'contributing',
-    message: 'How can the users contribute in this project?'
-},
-{
-    type: 'input',
-    name: 'testing',
-    message: 'Provide a test of this project?'
-},
-{
-    type: 'input',
-    name: 'questions',
-    message: 'Do you have any questions?'  
-},
-{
-    type: 'input',
-    name: 'repository',
-    message: 'Please provide your github repository name.'  
-},
-{
-    type: 'input',
-    name: 'email',
-    message: 'Please provide your e-mail.'  
+    message: 'Your e-mail address:'  
 }
 ];
 
@@ -139,6 +73,7 @@ function writeToFile( data) {
             console.log(err)
         }
     })
+    
 }
 
 // TODO: Create a function to initialize app
@@ -148,7 +83,6 @@ function init() {
         writeToFile(data)
     })
 }
-
 
 // Writing a README file.
 function writeToFile( data) {
