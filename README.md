@@ -59,15 +59,11 @@
   
   For any questions or issues, feel free to contact me through the contact info provided below 👇
   
-  </br>
-  
-  ## GitHub repository
+  ### GitHub repository
   
   [odobashigenci](https://github.com/odobashigenci)
   
-  </br>
-  
-  ## Email me
+  ### Email me
   
   [odobashigenci@gmail.com](mailto:odobashigenci@gmail.com)
   
