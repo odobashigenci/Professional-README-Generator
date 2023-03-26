@@ -1,5 +1,7 @@
+
 // Returning a license badge based on which license is passed in.
 // Returning an empty string If there is no license.
+
 function renderLicenseBadge(license) {
   if (license !== 'None') { 
     let licenseName = license.replace(' ', '%20');
@@ -7,6 +9,7 @@ function renderLicenseBadge(license) {
     }
   return ''
 }
+
 
 // Returning the license link.
 // Returning an empty string If there is no license.
@@ -26,8 +29,11 @@ function renderLicenseLink(license) {
   }
 }
 
+
 // Retruning the README license section.
 // Returning an empty string If there is no license.
+
+
 function renderLicenseSection(license) {
   let licenseLink = renderLicenseLink(license)
   if (license !== 'None') {
